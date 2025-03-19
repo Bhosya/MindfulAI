@@ -30,26 +30,35 @@
 
 <svelte:head>
 	<title>MindfulAI - Your Safe Space for Healing & Growth</title>
-	<meta name="description" content="Experience supportive conversations and guidance from our AI-powered mental health platform" />
+	<meta
+		name="description"
+		content="Experience supportive conversations and guidance from our AI-powered mental health platform"
+	/>
 </svelte:head>
 
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 	<!-- Hero Section -->
 	<div class="text-center mb-16 relative">
 		<!-- Decorative corner illustrations -->
-		<div class="absolute top-0 left-0 w-24 h-24 opacity-20 transform -translate-x-1/2 -translate-y-1/2">
+		<div
+			class="absolute top-0 left-0 w-24 h-24 opacity-20 transform -translate-x-1/2 -translate-y-1/2"
+		>
 			<img src="https://illustrations.popsy.co/amber/flower.svg" alt="" class="w-full h-full" />
 		</div>
-		<div class="absolute top-0 right-0 w-24 h-24 opacity-20 transform translate-x-1/2 -translate-y-1/2">
+		<div
+			class="absolute top-0 right-0 w-24 h-24 opacity-20 transform translate-x-1/2 -translate-y-1/2"
+		>
 			<img src="https://illustrations.popsy.co/amber/flower.svg" alt="" class="w-full h-full" />
 		</div>
 
-		<h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 mb-8 animate-fade-in leading-tight">
+		<h1
+			class="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 mb-8 animate-fade-in leading-tight"
+		>
 			Your Safe Space for<br />Healing & Growth
 		</h1>
 		<p class="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-			Experience supportive conversations and guidance from our AI-powered platform, designed to help you
-			navigate life's challenges with compassion and understanding.
+			Experience supportive conversations and guidance from our AI-powered platform, designed to
+			help you navigate life's challenges with compassion and understanding.
 		</p>
 		<div class="flex justify-center space-x-4">
 			<a
@@ -60,11 +69,11 @@
 			</a>
 		</div>
 
-		<div class="mt-12 animate-float">
+		<div class="mt-12 animate-float flex justify-center">
 			<img
 				src="https://static.vecteezy.com/system/resources/thumbnails/034/601/628/small_2x/ai-generated-meditation-free-png.png"
 				alt="Person meditating"
-				class="max-w-lg mx-auto"
+				class="w-full max-w-sm sm:max-w-md md:max-w-lg"
 			/>
 		</div>
 	</div>
@@ -93,7 +102,9 @@
 			</div>
 			<div class="space-y-6">
 				<div class="flex items-start">
-					<div class="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary-100 text-primary-600">
+					<div
+						class="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary-100 text-primary-600"
+					>
 						1
 					</div>
 					<div class="ml-4">
@@ -104,7 +115,9 @@
 					</div>
 				</div>
 				<div class="flex items-start">
-					<div class="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary-100 text-primary-600">
+					<div
+						class="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary-100 text-primary-600"
+					>
 						2
 					</div>
 					<div class="ml-4">
@@ -115,7 +128,9 @@
 					</div>
 				</div>
 				<div class="flex items-start">
-					<div class="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary-100 text-primary-600">
+					<div
+						class="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary-100 text-primary-600"
+					>
 						3
 					</div>
 					<div class="ml-4">
@@ -135,15 +150,15 @@
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 			<div class="card hover:scale-105 transition-transform duration-300">
 				<p class="text-gray-600 mb-4">
-					"MindfulAI helped me through a difficult time. It's like having a supportive friend available
-					24/7."
+					"MindfulAI helped me through a difficult time. It's like having a supportive friend
+					available 24/7."
 				</p>
 				<p class="font-medium">- Sarah M.</p>
 			</div>
 			<div class="card hover:scale-105 transition-transform duration-300">
 				<p class="text-gray-600 mb-4">
-					"The conversations feel natural and understanding. It's amazing how helpful the AI guidance can
-					be."
+					"The conversations feel natural and understanding. It's amazing how helpful the AI
+					guidance can be."
 				</p>
 				<p class="font-medium">- James R.</p>
 			</div>
@@ -164,10 +179,14 @@
 	<!-- CTA Section -->
 	<div class="text-center relative">
 		<!-- Decorative corner illustrations -->
-		<div class="absolute bottom-0 left-0 w-24 h-24 opacity-20 transform -translate-x-1/2 translate-y-1/2">
+		<div
+			class="absolute bottom-0 left-0 w-24 h-24 opacity-20 transform -translate-x-1/2 translate-y-1/2"
+		>
 			<img src="https://illustrations.popsy.co/amber/plant.svg" alt="" class="w-full h-full" />
 		</div>
-		<div class="absolute bottom-0 right-0 w-24 h-24 opacity-20 transform translate-x-1/2 translate-y-1/2">
+		<div
+			class="absolute bottom-0 right-0 w-24 h-24 opacity-20 transform translate-x-1/2 translate-y-1/2"
+		>
 			<img src="https://illustrations.popsy.co/amber/heart.svg" alt="" class="w-full h-full" />
 		</div>
 
