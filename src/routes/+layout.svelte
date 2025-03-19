@@ -90,13 +90,13 @@
 					<h3 class="text-lg font-semibold text-gray-900 mb-4">Quick Links</h3>
 					<ul class="space-y-2">
 						<li>
-							<a href="/about" class="text-gray-600 hover:text-primary-500">About Us</a>
+							<p class="text-gray-600 hover:text-primary-500">About Us</p>
 						</li>
 						<li>
-							<a href="/privacy" class="text-gray-600 hover:text-primary-500">Privacy Policy</a>
+							<p class="text-gray-600 hover:text-primary-500">Privacy Policy</p>
 						</li>
 						<li>
-							<a href="/terms" class="text-gray-600 hover:text-primary-500">Terms of Service</a>
+							<p class="text-gray-600 hover:text-primary-500">Terms of Service</p>
 						</li>
 					</ul>
 				</div>
